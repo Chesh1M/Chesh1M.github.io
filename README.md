@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm Aowen. A 2nd year student in NTU (Nanyang Technological University) majoring in Mathematical Science with a specialization in Business Analytics. I dabble in a little web-design and am currently setting my foot into the Data Analytics world. I have an unquenching thirst for finding out the "how?" and have been called the human wikipedia at times.. 😰
+I'm Aowen. A 2nd year NTU (Nanyang Technological University) student majoring in Mathematical Science with a specialization in Business Analytics. I dabble in a little web-design and am currently setting my foot into the Data Analytics world. I have an unquenching thirst for finding out the "how?" and have been called the human wikipedia at times.. 😰
 
 On my free time (rare) you can find me taking a ride on my motorcycle enjoying the night breeze, going to the gym, or hitting bags at a Muay Thai gym.   
 
