@@ -1,10 +1,6 @@
-# Hey there :wave:
+# Hey there👋
 
-<!-- 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> 
--->
 <img src="./banner.jpg" alt="banner">
-
 
 ## About me
 
@@ -14,10 +10,10 @@ On my free time (rare) you can find me taking a ride on my motorcycle enjoying t
 
 🔭 Currently working on a hackathon project to create a notes generating app that takes lecture recordings and uses AI to turn them into condensed lecture notes packed full of awesome features. Stay tuned!
 
-## Things I am passionate about :nut_and_bolt:
+## Things I am passionate about 🔩
 
-- Web Development :octocat:
-- Data Analytics :robot:
+- Front End Web Development 📟
+- Data Analytics 🤖
 
 
 ## Get in touch :coffee:
