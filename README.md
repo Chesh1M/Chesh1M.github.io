@@ -10,7 +10,13 @@ On my free time (rare) you can find me taking a ride on my motorcycle enjoying t
 
 🔭 Currently working on a hackathon project to create a notes generating app that takes lecture recordings and uses AI to turn them into condensed lecture notes packed full of awesome features. Stay tuned!
 
-## Things I am passionate about 🔩
+
+## Projects/Competitions done 🌌
+- WowDao AI Hackathon ([NoteGenie](https://github.com/Chesh1M/NoteGenie)) 🌏
+- 2023 MaritimeONE Digital Challange ⚓
+
+  
+## Current interests 🔩
 
 - Front End Web Development 📟
 - Data Analytics 🤖
@@ -19,7 +25,7 @@ On my free time (rare) you can find me taking a ride on my motorcycle enjoying t
 ## Get in touch :coffee:
 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/aowenc/)
-- And of course GitHub which you're already on (Recursion).
+- And of course GitHub which you're already on ([Recursion](https://github.com/Chesh1M).
 
 <p align="center"> 
   Visitor count<br>
