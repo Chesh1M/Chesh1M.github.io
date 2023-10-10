@@ -25,7 +25,7 @@ On my free time (rare) you can find me taking a ride on my motorcycle enjoying t
 ## Get in touch :coffee:
 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/aowenc/)
-- And of course GitHub which you're already on ([Recursion](https://github.com/Chesh1M).
+- And of course GitHub which you're already on ([Recursion](https://github.com/Chesh1M)).
 
 <p align="center"> 
   Visitor count<br>
